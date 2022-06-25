@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Stickynote/static/css/main.77dde350.css",
+    "main.js": "/Stickynote/static/js/main.b0db305c.js",
+    "static/js/787.e028cfd6.chunk.js": "/Stickynote/static/js/787.e028cfd6.chunk.js",
+    "static/media/imgg.jpg": "/Stickynote/static/media/imgg.5ac80922854209dee4b3.jpg",
+    "static/media/logo.svg": "/Stickynote/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Stickynote/index.html",
+    "main.77dde350.css.map": "/Stickynote/static/css/main.77dde350.css.map",
+    "main.b0db305c.js.map": "/Stickynote/static/js/main.b0db305c.js.map",
+    "787.e028cfd6.chunk.js.map": "/Stickynote/static/js/787.e028cfd6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77dde350.css",
+    "static/js/main.b0db305c.js"
+  ]
+}
